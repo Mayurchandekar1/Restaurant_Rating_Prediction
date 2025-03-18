@@ -1,10 +1,5 @@
 # Restaurant Rating Prediction App
 
-The **Restaurant Rating Prediction App** is a **Streamlit-based web application** designed to predict restaurant ratings based on user inputs. Using a **machine learning model**, the app analyzes factors such as **estimated cost, table booking availability, online delivery, and price range** to estimate a restaurant’s rating.  
-
-The model is trained on a dataset containing restaurant features and their corresponding ratings. By leveraging **pre-trained machine learning algorithms**, the app provides instant predictions, helping users assess restaurant quality interactively.
-
-
 ## Overview
 This project is a **Streamlit-based web application** that predicts restaurant ratings based on user inputs. The model leverages machine learning to estimate ratings based on factors like **cost, table booking availability, online delivery, and price range**.
 
