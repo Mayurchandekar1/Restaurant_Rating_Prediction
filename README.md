@@ -29,3 +29,5 @@ The dataset used for training includes:
 - Users receive instant predictions along with color-coded feedback.
 - The system provides an interactive way to evaluate restaurant performance.
 
+- https://mayurchandekar-restaurant-rating-prediction.hf.space
+
